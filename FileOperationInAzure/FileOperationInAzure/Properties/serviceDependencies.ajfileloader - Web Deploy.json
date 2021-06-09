@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/FileOperationInAzureapi/apis/FileOperationInAzure",
+      "type": "apis.azure"
+    }
+  }
+}

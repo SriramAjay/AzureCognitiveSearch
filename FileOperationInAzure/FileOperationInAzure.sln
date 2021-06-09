@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileOperationInAzure", "FileOperationInAzure\FileOperationInAzure.csproj", "{36869BE4-509A-45A0-BEFA-EBFBBA144E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCognitiveSearch", "AzureCognitiveSearch\AzureCognitiveSearch.csproj", "{56E1D75B-251E-4C28-AE35-C5479A1E45E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36869BE4-509A-45A0-BEFA-EBFBBA144E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36869BE4-509A-45A0-BEFA-EBFBBA144E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36869BE4-509A-45A0-BEFA-EBFBBA144E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36869BE4-509A-45A0-BEFA-EBFBBA144E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E1D75B-251E-4C28-AE35-C5479A1E45E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E1D75B-251E-4C28-AE35-C5479A1E45E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E1D75B-251E-4C28-AE35-C5479A1E45E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E1D75B-251E-4C28-AE35-C5479A1E45E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7AFDD8-885A-438B-935C-5240712286C0}
+	EndGlobalSection
+EndGlobal
