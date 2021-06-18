@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ghrl58MCAlWcb1dc4lKq2ZsmPebf4UKl4TguQp5U6kfT9BEUkMyNJ21p48yruR/brxrXygUg5AHjbKWOjgUpQ==",
+  "dgSpecHash": "1xr3O+FYIruUZGGahgAycqAfpRvu9Ie/Txaz098R5QZtlwlzXQsTq6JIcotD/yAdxrSWydvk1CcQ5cb/CDqFug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
+  "projectFilePath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajay\\.nuget\\packages\\microsoft.azure.search.common\\10.1.0\\microsoft.azure.search.common.10.1.0.nupkg.sha512",
     "C:\\Users\\Ajay\\.nuget\\packages\\microsoft.azure.search.data\\10.1.0\\microsoft.azure.search.data.10.1.0.nupkg.sha512",

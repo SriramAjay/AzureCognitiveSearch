@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7GdOJsu4CeCIDuPhGbmS2HyriIFPMB4rMnbkGs7kFXqEc9ufQYrc9baJmxm1vFezkKYtgI3KQnvbSGzxRoWXFA==",
+  "dgSpecHash": "y3/HyW639XkW4xr9Gshtb4IxB8Z1fqBdR2lLPKZGPW+XGAgBtlPeC1wlFnVOXh6Ac+YF3rWGNrf/CJjc3Kmhzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
+  "projectFilePath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajay\\.nuget\\packages\\azure.core\\1.8.1\\azure.core.1.8.1.nupkg.sha512",
     "C:\\Users\\Ajay\\.nuget\\packages\\azure.storage.blobs\\12.8.1\\azure.storage.blobs.12.8.1.nupkg.sha512",

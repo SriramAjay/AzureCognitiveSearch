@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj": {}
+    "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj": {
+    "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
+        "projectUniqueName": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
         "projectName": "FileOperationInAzure",
-        "projectPath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
+        "projectPath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\FileOperationInAzure.csproj",
         "packagesPath": "C:\\Users\\Ajay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\FileOperationInAzure\\obj\\",
+        "outputPath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\FileOperationInAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ajay\\AppData\\Roaming\\NuGet\\NuGet.Config",

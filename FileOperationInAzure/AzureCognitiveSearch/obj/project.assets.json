@@ -5299,11 +5299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
+      "projectUniqueName": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
       "projectName": "AzureCognitiveSearch",
-      "projectPath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
+      "projectPath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\AzureCognitiveSearch\\AzureCognitiveSearch.csproj",
       "packagesPath": "C:\\Users\\Ajay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajay\\Source\\Repos\\Devops\\FileOperationInAzure\\AzureCognitiveSearch\\obj\\",
+      "outputPath": "C:\\Users\\Ajay\\Source\\Repos\\AzureCognitiveSearch\\FileOperationInAzure\\AzureCognitiveSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajay\\AppData\\Roaming\\NuGet\\NuGet.Config",
